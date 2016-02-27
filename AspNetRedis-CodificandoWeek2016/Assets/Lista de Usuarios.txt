@@ -1,0 +1,31 @@
+﻿# Lista de Usuários
+[
+	{
+		"Id": 1,
+		"Nome": "Usuario 1",
+		"Login": "Usuario1",
+		"Senha": "123456",
+		"DataCriacao": "2016-02-25T00:40:33.3771391-03:00"
+	},
+	{
+		"Id": 2,
+		"Nome": "Usuario 2",
+		"Login": "Usuario1",
+		"Senha": "789456",
+		"DataCriacao": "2016-02-25T00:40:33.3771391-03:00"
+	},
+	{
+		"Id": 3,
+		"Nome": "Usuario 3",
+		"Login": "Usuario3",
+		"Senha": "789456",
+		"DataCriacao": "2016-02-25T00:40:33.3771391-03:00"
+	},
+	{
+		"Id": 4,
+		"Nome": "Usuario 4",
+		"Login": "Usuario4",
+		"Senha": "789456",
+		"DataCriacao": "2016-02-25T00:40:33.3771391-03:00"
+	}
+]
